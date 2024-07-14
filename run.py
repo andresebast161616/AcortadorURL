@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, redirect, url_for, session, f
 from config import server, database, username, password, driver
 import pyodbc
 import secrets
+import os
+
 
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Clave secreta para la sesión
