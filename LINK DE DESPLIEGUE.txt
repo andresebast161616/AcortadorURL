@@ -1,2 +1,6 @@
+OFICIAL:
+LINK DE DESPLIEGUE AZURE: acortadorurls.azurewebsites.net
+
+CON ERRORES:
 LINK DE DESPLIEGUE RENDER: https://acortadorurl-ghoe.onrender.com
 LINK DE DESPLIEGUE JAVA: http://linkeasy.ddns.net:8080/AcortadorURLs/
